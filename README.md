@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 ### About Me
 
-(EN/US) - I started in the programming world through college, where my first language learned was C, after that I had a focus on web development focused mainly on front-end (HTML/CSS), today I have a focus on native android development through kotlin.
+(EN/US) - I started in the programming world through college, where my first language learned was C, after that I had a focus on web development focused mainly on front-end (HTML/CSS), today I have a focus on Web development.
 
-(PT/BR) - Comecei no mundo na programação através da faculdade, onde minha primera linguagem aprendida foi C, apos isso tive um foco em desenvolvimento web focado principalmente em front-end (HTML/CSS), hoje tenho um foco em desenvolvimente android nativo atraves de kotlin.
-
+(PT/BR) - Comecei no mundo na programação através da faculdade, onde minha primera linguagem aprendida foi C, apos isso tive um foco em desenvolvimento web focado principalmente em front-end (HTML/CSS), hoje tenho um foco em desenvolvimente Web principalmente backend.
 ## Contacts
 
   <div> 
