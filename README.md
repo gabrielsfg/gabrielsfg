@@ -1,42 +1,47 @@
-# 👋 Hello, I'm Gabriel Ferreira Silva
+# Gabriel Ferreira Silva
 
-**Full Stack Developer** specializing in .NET technologies and modern web development, with experience in building mission-critical financial systems.
+Full Stack Developer focused on .NET and modern web applications, with hands-on experience building financial and payment-processing systems.
 
-## 💼 Currently
-- 🎓 Computer Science Student at **Federal University of Goiás** (Top 11 University in Brazil)
-- 💻 **Full Stack Developer** at **Valori** - Payment Processing FinTech
-- 🔧 Working with: **C#**, **ASP.NET Core**, **React**, **TypeScript**, **SQL Server**, **Azure**, **Docker**
+## Professional Summary
+Full Stack Developer with experience in mission-critical financial systems, RESTful APIs, and cloud-based applications. Strong background in backend development with .NET, combined with modern frontend frameworks and solid understanding of scalable architectures.
 
-## 🛠️ Technical Focus
-**Backend Development:**
-- C#, ASP.NET Core, Entity Framework, RESTful APIs, Microservices
+## Current Role & Education
+- Full Stack Developer at Valori – Payment Processing FinTech  
+- Computer Science student at Federal University of Goiás (Top 11 University in Brazil)
 
-**Frontend Development:**  
-- React, TypeScript, JavaScript, HTML5, CSS3
+## Technical Stack
+### Backend
+- C#, ASP.NET Core, Entity Framework
+- RESTful APIs, Microservices Architecture
+- SQL Server, Data Modeling, Performance Optimization
 
-**Cloud & DevOps:**
-- Azure, Docker, CI/CD, Git, Bitbucket
+### Frontend
+- React, TypeScript, JavaScript
+- HTML5, CSS3
 
-## 📈 What I'm Building
-- Real-time financial transaction portals and payment processing systems
-- Automated settlement engines and pricing algorithms
-- High-availability microservices architecture
-- Secure API integrations with banking systems
+### Cloud & DevOps
+- Microsoft Azure
+- Docker
+- CI/CD Pipelines
+- Git, Bitbucket
 
-## 📫 Contacts
+## Professional Experience Highlights
+- Development of real-time financial transaction portals
+- Implementation of automated settlement and pricing engines
+- Design and maintenance of high-availability microservices
+- Secure integrations with banking and payment systems
 
-  <div> 
- 
-  <a href="https://www.instagram.com/gabrielsfg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriellfsg00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-silva-3932b2210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## What You’ll Find Here
+- Backend-focused projects in .NET and C#
+- Code samples emphasizing clean architecture, scalability, and maintainability
+- Ongoing learning projects related to algorithms, data structures, and system design
 
-##
+## Contact
+- Email: gabriellfsg00@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/gabriel-ferreira-silva-3932b2210/  
 
-<div align="center">
-  <a href=https://github.com/gabrielsfg>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsfg&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsfg&layout=compact&langs_count=7&theme=dark">
-<div>
+## GitHub Stats
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielsfg&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsfg&layout=compact&langs_count=7&theme=dark" />
+</p>
