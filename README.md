@@ -39,47 +39,6 @@ Benchmarking distributed vs. single-machine data processing with Apache Spark on
 - Email: gabriellfsg00@gmail.com
 - LinkedIn: [linkedin.com/in/gabriel-ferreira-silva-3932b2210](https://www.linkedin.com/in/gabriel-ferreira-silva-3932b2210/)
 
-# Gabriel Ferreira Silva
-
-Full Stack Software Engineer with 2 years of professional experience building production financial and payment systems. Currently based in Goiania, Brazil. U.S. citizen, available to work remotely.
-
-## About
-
-Junior Full Stack Engineer at Valori, a Brazilian payment processing fintech, where I design and ship production microservices and web applications handling real financial transactions daily. Final semester of a B.Sc. in Computer Science at Universidade Federal de Goias (top 11 in Brazil, SCImago 2022). Expected graduation: July 2026.
-
-My work centers on backend systems in C# and .NET, REST APIs, and frontend development with TypeScript and React. I have hands-on experience with automated payment pipelines, billing systems, and cloud-hosted microservices on Azure.
-
-## Tech Stack
-
-**Backend:** C#, .NET, Java, Spring Boot, Entity Framework, Dapper, REST APIs, Clean Architecture
-
-**Frontend:** TypeScript, React, JavaScript, HTML5, CSS3
-
-**Databases:** SQL Server (T-SQL, stored procedures), PostgreSQL, MongoDB
-
-**Cloud & DevOps:** Azure, Docker, Azure DevOps, CI/CD, Git, AWS
-
-**Other:** Flutter, Apache Spark, Python
-
-## Featured Projects
-
-### [Finance Control API](https://github.com/gabrielsfg/Finance-Control-Api)
-Personal finance management REST API built in C#/.NET with PostgreSQL, Entity Framework, and FluentValidation. Clean Architecture. Mobile frontend in Flutter (in development).
-
-### [Parallel Computing Performance Analysis](https://github.com/gabrielsfg/Parallel-Computing)
-Benchmarking distributed vs. single-machine data processing with Apache Spark on a multi-node AWS EC2 cluster. Implemented in Python, Pandas, and NumPy.
-
-## Professional Highlights
-
-- Built the Centralized Payment System (SLC): an automated pipeline that extracts transaction records, transforms them into structured payment files, and delivers them via Azure Blob Storage and SFTP to the payment processor; replaced a 5-hour daily manual process
-- Built the Billing Management System (GCB) as sole developer, automating charge calculation and chargeback processing across multiple billing categories
-- Developed customer-facing portal features in TypeScript and React for a platform used by clients and internal operations teams
-
-## Contact
-
-- Email: gabriellfsg00@gmail.com
-- LinkedIn: [linkedin.com/in/gabriel-ferreira-silva-3932b2210](https://www.linkedin.com/in/gabriel-ferreira-silva-3932b2210/)
-
 ## Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
